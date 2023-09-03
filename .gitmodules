@@ -1,0 +1,24 @@
+[submodule "extensions/test-predict-extension"]
+	path = extensions/test-predict-extension
+	url = git@github.com:olihulland/test-predict-extension.git
+[submodule "extensions/pxt-Cloudlet-AI"]
+	path = extensions/pxt-Cloudlet-AI
+	url = git@github.com:olihulland/pxt-Cloudlet-AI.git
+[submodule "pxt-modif/microbit-v2-samples"]
+	path = pxt-modif/microbit-v2-samples
+	url = git@github.com:olihulland/microbit-v2-samples.git
+[submodule "codal-ext/codal-tflite"]
+	path = codal-ext/codal-tflite
+	url = git@github.com:olihulland/codal-tflite.git
+[submodule "cloudlet/Cloudlet-AI-Backend"]
+	path = cloudlet/Cloudlet-AI-Backend
+	url = git@github.com:olihulland/Cloudlet-AI-Backend.git
+[submodule "pxt-modif/pxt-microbit"]
+	path = pxt-modif/pxt-microbit
+	url = git@github.com:olihulland/pxt-microbit.git
+[submodule "cloudlet/Cloudlet-AI-Frontend"]
+	path = cloudlet/Cloudlet-AI-Frontend
+	url = git@github.com:olihulland/Cloudlet-AI-Frontend.git
+[submodule "cloudlet/makecode-cloudlet-microbit-hub"]
+	path = cloudlet/makecode-cloudlet-microbit-hub
+	url = https://github.com/olihulland/makecode-cloudlet-microbit-hub
