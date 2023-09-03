@@ -1,8 +1,8 @@
-[submodule "extensions/test-predict-extension"]
-	path = extensions/test-predict-extension
+[submodule "makecode-ext/test-predict-extension"]
+	path = makecode-ext/test-predict-extension
 	url = git@github.com:olihulland/test-predict-extension.git
-[submodule "extensions/pxt-Cloudlet-AI"]
-	path = extensions/pxt-Cloudlet-AI
+[submodule "makecode-ext/pxt-Cloudlet-AI"]
+	path = makecode-ext/pxt-Cloudlet-AI
 	url = git@github.com:olihulland/pxt-Cloudlet-AI.git
 [submodule "pxt-modif/microbit-v2-samples"]
 	path = pxt-modif/microbit-v2-samples
